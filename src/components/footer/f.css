@@ -1,0 +1,20 @@
+.footer {
+    background-color: #0e1213;
+    opacity: 0.6;
+    border-top: 1px solid #096278;
+    padding: 2rem 5rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer p {
+    color: #7f8c8d;
+    justify-content: flex-start;
+}
+
+.footer p ion-icon {
+    color: rgb(222, 243, 0);
+    padding-right: 4px;
+}

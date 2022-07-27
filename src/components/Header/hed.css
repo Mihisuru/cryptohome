@@ -1,0 +1,14 @@
+.active {
+    list-style-type: none;
+    color: white !important;
+    font-size: 1.6rem;
+    line-height: 1.6rem;
+    text-decoration: none !important;
+  }
+
+  .active:hover {
+    color: rgb(154, 243, 255) !important;
+    transition: all 1s ease-out;
+  }
+
+
